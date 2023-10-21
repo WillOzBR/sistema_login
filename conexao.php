@@ -1,7 +1,7 @@
 <?php 
 
 $hostname = "localhost"; //nome do host
-$database = "colocar nome"; //nome do banco de dados
+$database = "login"; //nome do banco de dados
 $user = "root"; //usuario
 $password = ""; //senha
 
